@@ -36,3 +36,11 @@ header {
     border-radius: 10px;
     margin-bottom: 10px;
 }
+
+/* Pie de página */
+footer {
+    text-align: center;
+    background: #111;
+    padding: 12px;
+    color: #aaa;
+}

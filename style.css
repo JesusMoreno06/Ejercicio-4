@@ -30,3 +30,9 @@ header {
 .videojuego:hover {
     transform: scale(1.05);
 }
+
+.videojuego img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
